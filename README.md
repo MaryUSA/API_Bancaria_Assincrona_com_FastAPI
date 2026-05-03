@@ -1,4 +1,4 @@
-# API_Banc-ria_Ass-ncrona_com_FastAPI
+# API_Bancaria_Assincrona_com_FastAPI
 Desafio desenvolvido no curso da Luizalabs - Back-end com Python - 2º Edição.
 Uma API bancária robusta e assíncrona desenvolvida com **FastAPI**, focada em alta performance e segurança. Este projeto demonstra a implementação de transações financeiras, autenticação JWT e integração com banco de dados utilizando SQLAlchemy 2.0.
 
